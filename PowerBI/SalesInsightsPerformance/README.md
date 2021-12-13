@@ -1,11 +1,6 @@
-## Sales Insights Data Analysis Project
+## Sales Insights Data Analysis Project(Note:-Applicable for SalesInsights.sql and SalesInsights.pbix)
 
-### Instructions to setup mysql on your local computer
-
-1. Follow step in this video to install mysql on your local computer
-https://www.youtube.com/watch?v=WuBcTJnIuzo
-
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+1. SQL database dump is in db_dump.sql file above. Download `SalesInsights.sql` 
 
 ### Data Analysis Using SQL
 
