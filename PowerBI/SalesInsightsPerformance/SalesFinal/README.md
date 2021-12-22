@@ -1,25 +1,29 @@
 # Sales Insights Data Analysis Project <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<text align="center">Sales Insights Performance Dashboard </text>
+<p align="center">Sales Insights Performance Dashboard Overview </p>
+<img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Keyperformance.png">
+<p align="center">Performance Insights Dashboard </p>
 <img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Performanceinsights.png">
+<p align="center">Profit Analysis Dashboard </p>
+<img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Profitanalysis.png">
 
 <h3>☀️PURPOSE☀️</h3>
-To unlock sales insights that are not visible before for sales team for decision supportautomate them to reduced manual time spent in data gathering
-<img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Profitanalysis.png">
+⮞ To unlock sales insights that are not visible before for sales team for decision supportautomate them to reduced manual time spent in data gathering
+
 <h3>☀️STAKEHOLDERS☀️</h3>
--Sales Director
--Marketing Team
--Customer Service Team
--Data & Analytics Team
--IT
-<img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Keyperformance.png">
+⮞ Sales Director
+⮞ Marketing Team
+⮞ Customer Service Team
+⮞ Data & Analytics Team
+⮞ IT
+
 
 <h3>☀️SUCCESS CRITERIA☀️</h3>
--Dashboard) uncovering sales order insights with latest data available
--Sales team able to take better decisions & prove 10 % cost savings of total spend
--Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity
+⮞ Dashboard) uncovering sales order insights with latest data available
+⮞ Sales team able to take better decisions & prove 10 % cost savings of total spend
+⮞ Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity
 
 <h3>☀️END RESULT☀️</h3>
--An automated dashboard providing quick &latest sales insights in order to support data driven decision making.
+⮞ An automated dashboard providing quick &latest sales insights in order to support data driven decision making.
 
 <h3>☀️NOTE☀️</h3>
 🛢SQL database dump is in SalesInsightsandPerformance.sql file above. Download `SalesInsightsandPerformance.sql` and in MYSQLSERVER WORKBENCH and import the sql file
