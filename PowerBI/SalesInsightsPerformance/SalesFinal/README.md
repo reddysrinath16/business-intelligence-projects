@@ -11,7 +11,7 @@ To unlock sales insights that are not visible before for sales team for decision
 ⮞Data & Analytics Team
 ⮞IT
 
-https://img.shields.io/badge/-SUCCESS%20CRITERIA-yellowgreen
+<img src="https://img.shields.io/badge/-SUCCESS%20CRITERIA-yellowgreen">
 <h3>☀️SUCCESS CRITERIA☀️</h3>
 ⮞Dashboard) uncovering sales order insights with latest data available
 ⮞ Sales team able to take better decisions & prove 10 % cost savings of total spend
