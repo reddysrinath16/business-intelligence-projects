@@ -1,10 +1,10 @@
 # Sales Insights Data Analysis Project <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-<h3>PURPOSE</h3>
+<h3>☀️PURPOSE☀️</h3>
 To unlock sales insights that are not visible before for sales team for decision supportautomate them to reduced manual time spent in data gathering
 
-<h3>STAKEHOLDERS</h3>
+<h3>☀️STAKEHOLDERS☀️</h3>
 ⮞Sales Director
 ⮞Marketing Team
 ⮞Customer Service Team
@@ -17,9 +17,9 @@ To unlock sales insights that are not visible before for sales team for decision
 ⮞ Sales team able to take better decisions & prove 10 % cost savings of total spend
 ⮞ Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity
 
-<h3>END RESULT</h3>
+<h3>☀️END RESULT☀️</h3>
 An automated dashboard providing quick &latest sales insights in order to support data driven decision making.
 
 
- 🛢🛢SQL database dump is in SalesInsights.sql file above. Download `SalesInsights.sql` and in MYSQLSERVER WORKBENCH and import the sql file🛢🛢
+🛢🛢SQL database dump is in SalesInsights.sql file above. Download `SalesInsights.sql` and in MYSQLSERVER WORKBENCH and import the sql file🛢🛢
 
