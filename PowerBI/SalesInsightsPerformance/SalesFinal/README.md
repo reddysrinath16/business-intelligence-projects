@@ -21,5 +21,5 @@ To unlock sales insights that are not visible before for sales team for decision
 -An automated dashboard providing quick &latest sales insights in order to support data driven decision making.
 
 <h3>☀️NOTE☀️</h3>
-🛢SQL database dump is in SalesInsightsandPerformance.sql file above. Download `SalesInsightsandPerformance.sql` and in MYSQLSERVER WORKBENCH and import the sql fil
+🛢SQL database dump is in SalesInsightsandPerformance.sql file above. Download `SalesInsightsandPerformance.sql` and in MYSQLSERVER WORKBENCH and import the sql file
 
