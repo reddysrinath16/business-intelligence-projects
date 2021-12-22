@@ -11,7 +11,7 @@ To unlock sales insights that are not visible before for sales team for decision
 ⮞Data & Analytics Team
 ⮞IT
 
-<img src="https://img.shields.io/badge/-SUCCESS%20CRITERIA-yellowgreen">
+
 <h3>☀️SUCCESS CRITERIA☀️</h3>
 ⮞Dashboard) uncovering sales order insights with latest data available
 ⮞ Sales team able to take better decisions & prove 10 % cost savings of total spend
@@ -19,7 +19,6 @@ To unlock sales insights that are not visible before for sales team for decision
 
 <h3>☀️END RESULT☀️</h3>
 An automated dashboard providing quick &latest sales insights in order to support data driven decision making.
-
 
 🛢🛢SQL database dump is in SalesInsights.sql file above. Download `SalesInsights.sql` and in MYSQLSERVER WORKBENCH and import the sql file🛢🛢
 
