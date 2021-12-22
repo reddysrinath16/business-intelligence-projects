@@ -1,17 +1,17 @@
 # Sales Insights Data Analysis Project <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <text align="center">Sales Insights Performance Dashboard </text>
-./Keyperformance.png
+<img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Performanceinsights.png">
 
 <h3>☀️PURPOSE☀️</h3>
 To unlock sales insights that are not visible before for sales team for decision supportautomate them to reduced manual time spent in data gathering
-
+<img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Profitanalysis.png">
 <h3>☀️STAKEHOLDERS☀️</h3>
 -Sales Director
 -Marketing Team
 -Customer Service Team
 -Data & Analytics Team
 -IT
-
+<img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Keyperformance.png">
 
 <h3>☀️SUCCESS CRITERIA☀️</h3>
 -Dashboard) uncovering sales order insights with latest data available
