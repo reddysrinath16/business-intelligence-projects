@@ -5,5 +5,7 @@
 
 ![](SalesDashbaordoverview.png)
 
+<img src=https://github.com/reddysrinath16/business-intelligence-projects/blob/main/Tableau/Sales%20Dashboard%20Office%20Infrastructure/SalesDashboard.png>
+
 
 
