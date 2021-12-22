@@ -1,6 +1,6 @@
 ## Sales Insights Data Analysis Project
 
-1. SQL database dump is in SalesInsights.sql file above. Download `SalesInsights.sql` file to your local computer and import it as per instructions given in the tutorial video
+1. SQL database dump is in SalesInsights.sql file above. Download `SalesInsights.sql` and in MYSQLSERVER WORKBENCH and import the sql file
 
 ### Data Analysis Using SQL
 
