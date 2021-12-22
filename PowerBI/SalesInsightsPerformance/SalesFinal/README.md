@@ -1,8 +1,10 @@
 # Sales Insights Data Analysis Project <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<p align="center">Sales Insights Performance Dashboard Overview </p>
+ <p align="center">Sales Insights Performance Dashboard Overview </p>
 <img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Keyperformance.png">
+<br>
 <p align="center">Performance Insights Dashboard </p>
 <img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Performanceinsights.png">
+<br>
 <p align="center">Profit Analysis Dashboard </p>
 <img src ="https://github.com/reddysrinath16/business-intelligence-projects/blob/main/PowerBI/SalesInsightsPerformance/SalesFinal/Profitanalysis.png">
 
