@@ -5,20 +5,21 @@
 To unlock sales insights that are not visible before for sales team for decision supportautomate them to reduced manual time spent in data gathering
 
 <h3>☀️STAKEHOLDERS☀️</h3>
-⮞Sales Director
-⮞Marketing Team
-⮞Customer Service Team
-⮞Data & Analytics Team
-⮞IT
+-Sales Director
+-Marketing Team
+-Customer Service Team
+-Data & Analytics Team
+-IT
 
 
 <h3>☀️SUCCESS CRITERIA☀️</h3>
-⮞Dashboard) uncovering sales order insights with latest data available
-⮞ Sales team able to take better decisions & prove 10 % cost savings of total spend
-⮞ Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity
+-Dashboard) uncovering sales order insights with latest data available
+-Sales team able to take better decisions & prove 10 % cost savings of total spend
+-Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity
 
 <h3>☀️END RESULT☀️</h3>
-An automated dashboard providing quick &latest sales insights in order to support data driven decision making.
+-An automated dashboard providing quick &latest sales insights in order to support data driven decision making.
 
+<h3>☀️NOTE☀️</h3>
 🛢🛢SQL database dump is in SalesInsights.sql file above. Download `SalesInsights.sql` and in MYSQLSERVER WORKBENCH and import the sql file🛢🛢
 
